@@ -74,3 +74,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Kanto Yamamoto
+- DoB: 1999/11/07
+- Email: kanto.yamamoto@g.pascalia.co.jp
+- Hobbies: Dancing
