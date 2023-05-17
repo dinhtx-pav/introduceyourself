@@ -74,3 +74,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Nana Henmi
+- DoB: 1999/05/20
+- Email: nana.henmi@g.pascalia.co.jp
+- Hobbies:  Taking picture of landscape
