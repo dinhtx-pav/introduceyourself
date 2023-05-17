@@ -74,3 +74,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Kao Nagahashi
+- DoB: 2000/11/28
+- Email: kao.nagahashi@g.pascalia.co.jp
+- Hobbies: trying the food at various restaurants and game
