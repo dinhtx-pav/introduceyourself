@@ -74,3 +74,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## New student 2023
+- DoB: 01/01/2023
+- Email: 2023@pascaliaasia.com
+- Hobbies: Programming
