@@ -75,6 +75,11 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
+## New student 2023
+- DoB: 01/01/2023
+- Email: 2023@pascaliaasia.com
+- Hobbies: Programming
+
 ## Kao Nagahashi
 - DoB: 2000/11/28
 - Email: kao.nagahashi@g.pascalia.co.jp
