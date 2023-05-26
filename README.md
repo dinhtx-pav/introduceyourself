@@ -79,3 +79,8 @@
 - DoB: 01/01/2023
 - Email: 2023@pascaliaasia.com
 - Hobbies: Programming
+
+## Kao Nagahashi
+- DoB: 2000/11/28
+- Email: kao.nagahashi@g.pascalia.co.jp
+- Hobbies: trying the food at various restaurants and game
