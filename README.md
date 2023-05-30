@@ -84,3 +84,8 @@
 - DoB: 2000/11/28
 - Email: kao.nagahashi@g.pascalia.co.jp
 - Hobbies: trying the food at various restaurants and game
+
+## takashi obayashi
+- DoB: 1978/02/03
+- Email: obayashi@pascaliaasia.com
+- Hobbies: My hobbies are surfing and reading novels
