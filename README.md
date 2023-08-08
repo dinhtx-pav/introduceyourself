@@ -89,3 +89,9 @@
 - DoB: 1978/02/03
 - Email: obayashi@pascaliaasia.com
 - Hobbies: My hobbies are surfing and reading novels
+
+## Kazuki Sakakibara
+- DoB: 1999/06/10
+- Email: tomoki.sakakibara@g.pascalia.co.jp
+- Hobbies: Work-out, reading books, playing the guiter
+
