@@ -89,3 +89,8 @@
 - DoB: 1978/02/03
 - Email: obayashi@pascaliaasia.com
 - Hobbies: My hobbies are surfing and reading novels
+
+## Nana Henmi
+- DoB: 1999/05/20
+- Email: nana.henmi@g.pascalia.co.jp
+- Hobbies:  Taking picture of landscape
