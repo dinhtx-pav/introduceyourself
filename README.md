@@ -94,3 +94,8 @@
 - DoB: 1999/05/20
 - Email: nana.henmi@g.pascalia.co.jp
 - Hobbies:  Taking picture of landscape
+
+## Kazuki Sakakibara
+- DoB: 1999/06/10
+- Email: tomoki.sakakibara@g.pascalia.co.jp
+- Hobbies: Work-out, reading books, playing the guiter
