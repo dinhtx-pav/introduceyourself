@@ -99,3 +99,8 @@
 - DoB: 1999/06/10
 - Email: tomoki.sakakibara@g.pascalia.co.jp
 - Hobbies: Work-out, reading books, playing the guiter
+
+## Yuuki Naito
+- DoB: 1995/05/10
+- Email: yuuki.naitoh@g.plascalia.co.jp
+- Hobbies: Reading books,Listening music, Watching movies
