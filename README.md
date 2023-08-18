@@ -100,12 +100,23 @@
 - Email: tomoki.sakakibara@g.pascalia.co.jp
 - Hobbies: Work-out, reading books, playing the guiter
 
+
+## Yuuki Naito
+- DoB: 1995/05/10
+- Email: yuuki.naitoh@g.plascalia.co.jp
+- Hobbies: Reading books,Listening music, Watching movies
+
 ## Kanto Yamamoto
 - DoB: 1999/11/07
 - Email: kanto.yamamoto@g.pascalia.co.jp
 - Hobbies: Dancing
 
+## Le Cong Phuc
+- DoB: 2001/08/15
+- Email: phuclc1508@gmail.com
+- Hobbies: Video games
+
 ## Tran Nguyen Diem Hoang
 - DoB: 2001/06/10
-- Email: trannguyendiemhoang@gmail.com
+- Email: hoangtnd@pascaliaasia.com
 - Hobbies: Badminton
