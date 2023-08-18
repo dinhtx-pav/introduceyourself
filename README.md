@@ -105,3 +105,7 @@
 - Email: kanto.yamamoto@g.pascalia.co.jp
 - Hobbies: Dancing
 
+## Tran Nguyen Diem Hoang
+- DoB: 2001/06/10
+- Email: trannguyendiemhoang@gmail.com
+- Hobbies: Badminton
