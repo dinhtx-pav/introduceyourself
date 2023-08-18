@@ -105,3 +105,8 @@
 - Email: kanto.yamamoto@g.pascalia.co.jp
 - Hobbies: Dancing
 
+## Le Cong Phuc
+- DoB: 2001/08/15
+- Email: phuclc1508@gmail.com
+- Hobbies: Video games
+
