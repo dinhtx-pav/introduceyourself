@@ -75,7 +75,33 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
+## New student 2023
+- DoB: 01/01/2023
+- Email: 2023@pascaliaasia.com
+- Hobbies: Programming
+
+## Kao Nagahashi
+- DoB: 2000/11/28
+- Email: kao.nagahashi@g.pascalia.co.jp
+- Hobbies: trying the food at various restaurants and game
+
+## takashi obayashi
+- DoB: 1978/02/03
+- Email: obayashi@pascaliaasia.com
+- Hobbies: My hobbies are surfing and reading novels
+
+## Nana Henmi
+- DoB: 1999/05/20
+- Email: nana.henmi@g.pascalia.co.jp
+- Hobbies:  Taking picture of landscape
+
+## Kazuki Sakakibara
+- DoB: 1999/06/10
+- Email: tomoki.sakakibara@g.pascalia.co.jp
+- Hobbies: Work-out, reading books, playing the guiter
+
 ## Kanto Yamamoto
 - DoB: 1999/11/07
 - Email: kanto.yamamoto@g.pascalia.co.jp
 - Hobbies: Dancing
+
