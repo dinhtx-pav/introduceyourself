@@ -99,3 +99,9 @@
 - DoB: 1999/06/10
 - Email: tomoki.sakakibara@g.pascalia.co.jp
 - Hobbies: Work-out, reading books, playing the guiter
+
+## Kanto Yamamoto
+- DoB: 1999/11/07
+- Email: kanto.yamamoto@g.pascalia.co.jp
+- Hobbies: Dancing
+
