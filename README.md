@@ -116,7 +116,14 @@
 - Email: phuclc1508@gmail.com
 - Hobbies: Video games
 
+
 ## Juri Minoshima
 - DoB: 1982/10/03
 - Email: minoshima@pascaliaasia.com
 - Hobbies: Reading, Walking and Watching Netflix
+
+## Tran Nguyen Diem Hoang
+- DoB: 2001/06/10
+- Email: hoangtnd@pascaliaasia.com
+- Hobbies: Badminton
+
