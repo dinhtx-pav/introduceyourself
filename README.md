@@ -115,3 +115,8 @@
 - DoB: 2001/08/15
 - Email: phuclc1508@gmail.com
 - Hobbies: Video games
+
+## Tran Nguyen Diem Hoang
+- DoB: 2001/06/10
+- Email: hoangtnd@pascaliaasia.com
+- Hobbies: Badminton
