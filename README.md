@@ -120,3 +120,8 @@
 - DoB: 2001/06/10
 - Email: hoangtnd@pascaliaasia.com
 - Hobbies: Badminton
+
+## Atsuki Inoue
+- DoB: 2002/01/15
+- Email: atsuki.inoue@g.pascalia.co.jp
+- Hobbies: Listening to music
