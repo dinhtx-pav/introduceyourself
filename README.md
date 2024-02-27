@@ -131,3 +131,8 @@
 - DoB: 2002/01/15
 - Email: atsuki.inoue@g.pascalia.co.jp
 - Hobbies: Listening to music
+
+## Taisei Abe
+- DoB: 2001/05/13
+- Email: taisei.abe@g.pascalia.co.jp
+- Hobbies: Driving a car and hanging out with my friends
