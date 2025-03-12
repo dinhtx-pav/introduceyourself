@@ -136,3 +136,8 @@
 - DoB: 2001/05/13
 - Email: taisei.abe@g.pascalia.co.jp
 - Hobbies: Driving a car and hanging out with my friends
+
+## Kiattysack Sisanonh
+- DoB: 1998/10/28
+- Email: kiattysack@pascaliaasia.com
+-Hobbies: Drinking coffee and listening to music
