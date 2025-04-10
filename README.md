@@ -141,3 +141,8 @@
 - DoB: 1998/10/28
 - Email: kiattysack@pascaliaasia.com
 - Hobbies: Drinking coffee and listening to music
+
+## Kiko Yamanishi
+- DoB: 2002/05/20
+- Email: kiko.yamanishi@g.pascalia.co.jp
+- Hobbies: Reading comics and playing video games
