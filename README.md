@@ -144,5 +144,5 @@
 
 ## Natsume Hoshino
 - DoB: 2002/08/30
--Email: natsume.hoshino@g.pascalia.co.jp
--Hobbies: Hula
+- Email: natsume.hoshino@g.pascalia.co.jp
+- Hobbies: Hula
