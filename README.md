@@ -141,3 +141,8 @@
 - DoB: 1998/10/28
 - Email: kiattysack@pascaliaasia.com
 - Hobbies: Drinking coffee and listening to music
+
+## Natsume Hoshino
+- DoB: 2002/08/30
+-Email: natsume.hoshino@g.pascalia.co.jp
+-Hobbies: Hula
