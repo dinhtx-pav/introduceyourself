@@ -142,7 +142,13 @@
 - Email: kiattysack@pascaliaasia.com
 - Hobbies: Drinking coffee and listening to music
 
+## Natsume Hoshino
+- DoB: 2002/08/30
+- Email: natsume.hoshino@g.pascalia.co.jp
+- Hobbies: Hula
+
 ## Marika Handa
 - DoB: 2002/07/28
 - Email: marika.handa@g.pascalia.co.jp
 - Hobbies: play video games
+
