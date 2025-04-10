@@ -141,3 +141,8 @@
 - DoB: 1998/10/28
 - Email: kiattysack@pascaliaasia.com
 - Hobbies: Drinking coffee and listening to music
+
+## Marika Handa
+- DoB: 2002/07/28
+- Email: marika.handa@g.pascalia.co.jp
+- Hobbies: play video games
