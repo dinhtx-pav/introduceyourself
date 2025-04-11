@@ -152,3 +152,7 @@
 - Email: marika.handa@g.pascalia.co.jp
 - Hobbies: play video games
 
+## Natsuki Kobayashi
+- DoB: 2002/09/15
+- Email: natsuki.kobayashi@g.pascalia.co.jp
+- Hobbies: Drawing a picture
