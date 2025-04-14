@@ -152,3 +152,7 @@
 - Email: marika.handa@g.pascalia.co.jp
 - Hobbies: play video games
 
+## Reon Inoue
+- DoB: 2003/08/11
+- Email: leo@pascaliaasia.com
+- Hobbies: Backpacking
