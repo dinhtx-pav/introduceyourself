@@ -152,7 +152,19 @@
 - Email: marika.handa@g.pascalia.co.jp
 - Hobbies: play video games
 
+## Reon Inoue
+- DoB: 2003/08/11
+- Email: leo@pascaliaasia.com
+- Hobbies: Backpacking
+
+## Akane Eguchi
+- DoB: 2002/08/27
+- Email: akane.eguchi@g.pascalia.co.jp
+- Hobbies: travel,watching a baseball game
+
 ## Natsuki Kobayashi
 - DoB: 2002/09/15
 - Email: natsuki.kobayashi@g.pascalia.co.jp
-- Hobbies: Drawing a picture
+- Hobbies: drowing a picture
+
+
