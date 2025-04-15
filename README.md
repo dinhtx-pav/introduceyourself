@@ -159,7 +159,7 @@
 
 ## Akane Eguchi
 - DoB: 2002/08/27
-- Email: gucchi704@g.pascalia.co.jp
+- Email: akane.eguchi@g.pascalia.co.jp
 - Hobbies: travel,watching a baseball game
 
 
