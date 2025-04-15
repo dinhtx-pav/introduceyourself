@@ -162,6 +162,9 @@
 - Email: akane.eguchi@g.pascalia.co.jp
 - Hobbies: travel,watching a baseball game
 
-
+## Natsuki Kobayashi
+- DoB: 2002/09/15
+- Email: natsuki.kobayashi@g.pascalia.co.jp
+- Hobbies: drowing a picture
 
 
