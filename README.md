@@ -156,3 +156,12 @@
 - DoB: 2003/08/11
 - Email: leo@pascaliaasia.com
 - Hobbies: Backpacking
+
+## Akane Eguchi
+- DoB: 2002/08/27
+- Email: gucchi704@g.pascalia.co.jp
+- Hobbies: travel,watching a baseball game
+
+
+
+
