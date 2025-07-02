@@ -167,4 +167,7 @@
 - Email: natsuki.kobayashi@g.pascalia.co.jp
 - Hobbies: drowing a picture
 
-
+## Xanakone Siphanthong
+- DoB: 2003/08/19
+- Email: xanakone@pascaliaasia.com
+- Hobbies: Reading, Playing chess
