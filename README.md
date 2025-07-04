@@ -171,3 +171,8 @@
 - DoB: 2003/08/19
 - Email: xanakone@pascaliaasia.com
 - Hobbies: Reading, Playing chess
+
+# Phoutthasinh xaysongkham
+DoB: 2002/07/31
+Email: phoutthasinh@pascaliaasia.com
+Hobbies: Sports
