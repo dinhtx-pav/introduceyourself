@@ -171,3 +171,8 @@
 - DoB: 2003/08/19
 - Email: xanakone@pascaliaasia.com
 - Hobbies: Reading, Playing chess
+
+## Yusei Okada
+- DoB:2003/01/25
+- Email: is0662er@ed.ritsumei.ac.jp
+- Hobby: Football
