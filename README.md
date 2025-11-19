@@ -176,3 +176,9 @@
 - DoB:2003/01/25
 - Email: is0662er@ed.ritsumei.ac.jp
 - Hobby: Football
+
+
+## Souvannaphoum Athit
+- DoB:2003/10/05
+- Email: athit@pascaliaasia.com
+- Hobby: jogging, basketball, reading.
